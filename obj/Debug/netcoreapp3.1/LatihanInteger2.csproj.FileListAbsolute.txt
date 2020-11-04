@@ -1,0 +1,13 @@
+/home/yunita/netapp/LatihanInteger2/bin/Debug/netcoreapp3.1/LatihanInteger2
+/home/yunita/netapp/LatihanInteger2/bin/Debug/netcoreapp3.1/LatihanInteger2.deps.json
+/home/yunita/netapp/LatihanInteger2/bin/Debug/netcoreapp3.1/LatihanInteger2.runtimeconfig.json
+/home/yunita/netapp/LatihanInteger2/bin/Debug/netcoreapp3.1/LatihanInteger2.runtimeconfig.dev.json
+/home/yunita/netapp/LatihanInteger2/bin/Debug/netcoreapp3.1/LatihanInteger2.dll
+/home/yunita/netapp/LatihanInteger2/bin/Debug/netcoreapp3.1/LatihanInteger2.pdb
+/home/yunita/netapp/LatihanInteger2/obj/Debug/netcoreapp3.1/LatihanInteger2.csprojAssemblyReference.cache
+/home/yunita/netapp/LatihanInteger2/obj/Debug/netcoreapp3.1/LatihanInteger2.AssemblyInfoInputs.cache
+/home/yunita/netapp/LatihanInteger2/obj/Debug/netcoreapp3.1/LatihanInteger2.AssemblyInfo.cs
+/home/yunita/netapp/LatihanInteger2/obj/Debug/netcoreapp3.1/LatihanInteger2.csproj.CoreCompileInputs.cache
+/home/yunita/netapp/LatihanInteger2/obj/Debug/netcoreapp3.1/LatihanInteger2.dll
+/home/yunita/netapp/LatihanInteger2/obj/Debug/netcoreapp3.1/LatihanInteger2.pdb
+/home/yunita/netapp/LatihanInteger2/obj/Debug/netcoreapp3.1/LatihanInteger2.genruntimeconfig.cache
